@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="text_title_actionbar_main_activity">Filmes populares</string>
+    <string name="text_movie_detail">Detalhe do filme</string>
+</resources>
